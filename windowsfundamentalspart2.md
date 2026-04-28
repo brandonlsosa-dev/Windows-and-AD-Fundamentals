@@ -120,14 +120,16 @@ resmon.exe
 
 > In System Configuration, what is the full command for Internet Protocol Configuration?
 
-id="r9v3f6" C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe
+C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe
 
 > For the ipconfig command, how do you show detailed information?
 
-id="s5w1h8" ipconfig /all
+ipconfig /all
 
 ### 📸 Screenshot (Network Info Proof)
-md id="t2x7j4" ![IPConfig Output](./images/task7-ipconfig.png) 
+<img width="953" height="923" alt="image" src="https://github.com/user-attachments/assets/973436ec-e9b7-4de8-b718-a3c9836e8f91" />
+
+<img width="946" height="915" alt="image" src="https://github.com/user-attachments/assets/5127ef8f-86fb-409e-a955-8c44d8129c8b" />
 
 ### Key Concepts
 - ipconfig shows network configuration
@@ -140,10 +142,10 @@ md id="t2x7j4" ![IPConfig Output](./images/task7-ipconfig.png)
 
 > What is the command to open the Registry Editor?
 
-id="u8y4k2" regedt32.exe
+regedt32.exe
 
 ### 📸 Screenshot (Registry Access Proof - Important)
-md id="v1z6n9" ![Registry Editor](./images/task8-registry.png) 
+<img width="953" height="915" alt="image" src="https://github.com/user-attachments/assets/16c0c22c-11c0-43f2-a2f1-794b4722d708" />
 
 ### Key Concepts
 - Registry stores system + application settings
@@ -155,7 +157,7 @@ md id="v1z6n9" ![Registry Editor](./images/task8-registry.png)
 
 > Completed Windows Fundamentals Part 2
 
-id="w3a8c5" 
+
 
 ---
 
