@@ -1,6 +1,6 @@
 # windowsfundamentalspart2
 
-> Easy | Windows Fundamentals | Date Completed: 
+> Easy | Windows Fundamentals | Date Completed: 4/28/26
 
 ---
 
@@ -8,7 +8,7 @@
 
 > Read above and start the virtual machine
 
-id="a9f2k1" 
+
 
 ---
 
@@ -16,22 +16,24 @@ id="a9f2k1"
 
 > What is the name of the service that lists Systems Internals as the manufacturer?
 
-id="b3m7x2" PsShutdown
+PsShutdown
 
 > Whom is the Windows license registered to?
 
-id="c8q4p9" Windows User
+Windows User
 
 > What is the command for Windows Troubleshooting?
 
-id="d1z6r5" C:\Windows\System32\control.exe /name Microsoft.Troubleshooting
+C:\Windows\System32\control.exe /name Microsoft.Troubleshooting
 
 > What command will open the Control Panel? (name of .exe only)
 
-id="e5n2v7" control.exe
+control.exe
 
 ### 📸 Screenshot (System Configuration Proof)
-md id="f7t9y3" ![System Configuration](./images/task2-msconfig.png) 
+<img width="957" height="921" alt="image" src="https://github.com/user-attachments/assets/5e02094c-9d64-4061-844f-e9f6de01969f" />
+
+<img width="956" height="922" alt="image" src="https://github.com/user-attachments/assets/1b3fe8ca-568b-473f-a54b-41f1d04ca9be" />
 
 ### Key Concepts
 - msconfig is used for troubleshooting startup/services
@@ -56,18 +58,20 @@ id="g4h1k8" UserAccountControlSettings.exe
 
 > What is the command to open Computer Management?
 
-id="i2l5w6" compmgmt.msc
+compmgmt.msc
 
 > At what time every day is the GoogleUpdateTaskMachineUA task configured to run?
 
-id="j8o3c1" 6:15 AM
+6:15 AM
 
 > What is the name of the hidden share?
 
-id="k6p9s4" sh4r3dF0Ld3r
+sh4r3dF0Ld3r
 
 ### 📸 Screenshot (Task Scheduler / Shares Proof)
-md id="l0x7e2" ![Computer Management](./images/task4-compmgmt.png) 
+<img width="955" height="917" alt="image" src="https://github.com/user-attachments/assets/1e1b7f30-c1b7-464b-ae54-ee93dc27216c" />
+
+<img width="954" height="915" alt="image" src="https://github.com/user-attachments/assets/b8f6e6e5-db71-437d-890d-b75fed213dc4" />
 
 ### Key Concepts
 - Task Scheduler automates processes (persistence vector)
@@ -80,15 +84,15 @@ md id="l0x7e2" ![Computer Management](./images/task4-compmgmt.png)
 
 > What is the command to open System Information?
 
-id="m3q6v8" msinfo32.exe
+msinfo32.exe
 
 > What is listed under System Name?
 
-id="n7r2z5" THM-WINFUN2
+THM-WINFUN2
 
 > Under Environment Variables, what is the value for ComSpec?
 
-id="o1s9b4" %SystemRoot%\system32\cmd.exe
+%SystemRoot%\system32\cmd.exe
 
 ### Key Concepts
 - System Information shows hardware + OS data
@@ -101,10 +105,10 @@ id="o1s9b4" %SystemRoot%\system32\cmd.exe
 
 > What is the command to open Resource Monitor?
 
-id="p4t8y1" resmon.exe
+resmon.exe
 
 ### 📸 Screenshot (Resource Monitoring Proof)
-md id="q6u2d7" ![Resource Monitor](./images/task6-resmon.png) 
+<img width="958" height="915" alt="image" src="https://github.com/user-attachments/assets/43f26c43-e4c6-4c81-bbbe-6e8480f025e7" />
 
 ### Key Concepts
 - Resource Monitor shows CPU, memory, disk, network usage
