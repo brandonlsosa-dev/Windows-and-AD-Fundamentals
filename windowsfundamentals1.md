@@ -1,6 +1,6 @@
 # windowsfundamentalspart1
 
-> Easy | Windows Fundamentals | Date Completed: 
+> Easy | Windows Fundamentals | Date Completed: 4/28/26
 
 ---
 
@@ -8,7 +8,7 @@
 
 > Read above and start the virtual machine
 
-id="a1b2c3" 
+
 
 ---
 
@@ -16,7 +16,7 @@ id="a1b2c3"
 
 > What encryption can you enable on Pro that you can't enable in Home?
 
-id="d4e5f6" BitLocker
+BitLocker
 
 ### Key Concepts
 - Windows has multiple editions (Home, Pro, Server)
@@ -28,15 +28,15 @@ id="d4e5f6" BitLocker
 
 > Which selection will hide/disable the Search box?
 
-id="g7h8i9" Hidden
+Hidden
 
 > Which selection will hide/disable the Task View button?
 
-id="j1k2l3" Show Task View button
+Show Task View button
 
 > Besides Clock and Network, what other icon is visible in the Notification Area?
 
-id="m4n5o6" Action Center
+Action Center
 
 ### Key Concepts
 - Windows GUI is used heavily in enterprise environments
@@ -48,7 +48,7 @@ id="m4n5o6" Action Center
 
 > What is the meaning of NTFS?
 
-id="p7q8r9" New Technology File System
+New Technology File System
 
 ### Key Concepts
 - NTFS is the default Windows file system
@@ -60,7 +60,7 @@ id="p7q8r9" New Technology File System
 
 > What is the system variable for the Windows folder?
 
-id="s1t2u3" %windir%
+%windir%
 
 ### Key Concepts
 - System32 contains critical OS files
@@ -72,22 +72,24 @@ id="s1t2u3" %windir%
 
 > What is the name of the other user account?
 
-id="v4w5x6" tryhackmebilly
+tryhackmebilly
 
 > What groups is this user a member of?
 
-id="y7z8a9" Remote Desktop Users, Users
+Remote Desktop Users, Users
 
 > What built-in account is for guest access to the computer?
 
-id="b1c2d3" Guest
+Guest
 
 > What is the account status?
 
-id="e4f5g6" Account is disabled
+Account is disabled
 
 ### 📸 Screenshot (User Management Proof)
-md id="h7i8j9" ![User Accounts](./images/task6-users.png) 
+<img width="951" height="915" alt="image" src="https://github.com/user-attachments/assets/47f18a33-6fd0-4140-8f39-97e74e5e37a2" />
+
+<img width="955" height="915" alt="image" src="https://github.com/user-attachments/assets/5dae5593-9626-4a4b-90ae-1942f893bce1" />
 
 ### Key Concepts
 - User groups control permissions
@@ -100,7 +102,7 @@ md id="h7i8j9" ![User Accounts](./images/task6-users.png)
 
 > What does UAC mean?
 
-id="k1l2m3" User Account Control
+User Account Control
 
 ### Key Concepts
 - UAC prompts for elevated privileges
@@ -112,7 +114,7 @@ id="k1l2m3" User Account Control
 
 > In the Control Panel, change the view to Small icons. What is the last setting?
 
-id="n4o5p6" Windows Defender Firewall
+Windows Defender Firewall
 
 ### Key Concepts
 - Control Panel manages system settings
@@ -124,10 +126,10 @@ id="n4o5p6" Windows Defender Firewall
 
 > What is the keyboard shortcut to open Task Manager?
 
-id="q7r8s9" Ctrl + Shift + Esc
+Ctrl + Shift + Esc
 
 ### 📸 Screenshot (Process Monitoring Proof)
-md id="t1u2v3" ![Task Manager](./images/task9-taskmanager.png) 
+<img width="960" height="916" alt="image" src="https://github.com/user-attachments/assets/ef0bcadc-6da5-4161-a3e2-9354ece42bbc" />
 
 ### Key Concepts
 - Task Manager shows running processes and system usage
@@ -139,7 +141,7 @@ md id="t1u2v3" ![Task Manager](./images/task9-taskmanager.png)
 
 > Terminate the machine
 
-id="w4x5y6" 
+
 
 ---
 
